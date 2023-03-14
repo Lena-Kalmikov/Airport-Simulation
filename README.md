@@ -8,6 +8,10 @@ The goal of this project was to create an App that manages plane traffic in an a
 Application:
 1. You can see three lists in the app: Incoming flights, outgoing flights and compltesed flights.
 
+
+ <img src="https://github.com/Lena-Kalmikov/Airport-Simulation/blob/main/schema.PNG" width="400" height="350"/>
+
+
  <img src="https://github.com/Lena-Kalmikov/Airport-Simulation/blob/main/airport_activity.gif" width="700" height="580"/>
 
 You can follow one plane taking off here:
