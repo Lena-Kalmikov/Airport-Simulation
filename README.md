@@ -28,7 +28,7 @@ And here you can follow after plane landing:
 If you decide to download and run the project locally, do the following:
 1.	Open two terminals in vs code.
 2.	In one of them do the following:
- * Change directory to the 'server' folder
+   * Change directory to the 'server' folder
    * Run 'npm i' to install all necessary modules
    * Run 'node index.js' to start node
 3.	In the other do the following:
