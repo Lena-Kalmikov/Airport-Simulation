@@ -28,12 +28,12 @@ And here you can follow after plane landing:
 If you decide to download and run the project locally, do the following:
 *	Open two terminals in vs code.
 *	In one of them do the following:
-   * Change directory to the 'server' folder
-   * Run 'npm i' to install all necessary modules
-   * Run 'node index.js' to start node
+    * Change directory to the 'server' folder
+    * Run 'npm i' to install all necessary modules
+    * Run 'node index.js' to start node
 *	In the other do the following:
-   * Change directory to the 'client' folder
-   * Run 'npm i' to install all necessary modules
-   * Run 'npm start' to start the react app
+    * Change directory to the 'client' folder
+    * Run 'npm i' to install all necessary modules
+    * Run 'npm start' to start the react app
 *	Refresh the website and you're ready to go.
 
