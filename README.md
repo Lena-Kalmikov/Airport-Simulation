@@ -9,7 +9,7 @@ Application:
 1. You can see three lists in the app: Incoming flights, outgoing flights and compltesed flights.
 
 
- <img src="https://github.com/Lena-Kalmikov/Airport-Simulation/blob/main/schema.PNG"/>
+ <img src="https://github.com/Lena-Kalmikov/Airport-Simulation/blob/main/schema.PNG" width="700" height="580"/>
 
 
  <img src="https://github.com/Lena-Kalmikov/Airport-Simulation/blob/main/airport_activity.gif" width="700" height="580"/>
