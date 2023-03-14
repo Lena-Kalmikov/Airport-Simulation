@@ -1,0 +1,36 @@
+.empty-station {
+    color: black;
+    width: 130px;
+    height: 100px;
+    background-color: rgb(122, 166, 152);
+    border-radius: 15px;
+    display: inline-block;
+    margin: 10px;
+    margin-bottom: 10px;
+    box-shadow:  3px 3px 3px rgba(47, 114, 103, 0.701);
+}
+
+.empty-station:nth-child(4) {
+    width: 300px;
+}
+
+.station-occupied{
+    color: black;
+    width: 130px;
+    height: 100px;
+    background-color: rgb(237, 218, 197);
+    border-radius: 15px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px;
+    box-shadow:  3px 3px 3px rgb(234, 190, 101);
+}
+
+.station-occupied:nth-child(4) {
+    width: 300px;
+}
+
+img {
+    height: 50px;
+    width: 70px;
+}
