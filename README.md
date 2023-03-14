@@ -12,10 +12,10 @@ You can see three lists in the app: Incoming flights, outgoing flights and compl
 3.	Completed Flights: flights that exited the airport after successfully landing or taking off.
 
 There were a few constraints in the Characterization document:
-•	Incoming flights have to take the following routes: 
-•	station 1 > station 2 > station 3 > station 4 > station 5 > station 6 or station 7 (if 6 is occupied).
-•	Outgoing flights have to take the following routes: station 6 or station 7 (if 6 is occupied) > station 8 > station 4 > station 9
-•	The goal if the app was to manage incoming and outgoing flights in the airport in the most efficient way – which means preventinf deadlocks and situations where planes can't move to their next station because it's occupied. 
+*	Incoming flights have to take the following routes: 
+*	station 1 > station 2 > station 3 > station 4 > station 5 > station 6 or station 7 (if 6 is occupied).
+*	Outgoing flights have to take the following routes: station 6 or station 7 (if 6 is occupied) > station 8 > station 4 > station 9
+*	The goal if the app was to manage incoming and outgoing flights in the airport in the most efficient way – which means preventinf deadlocks and situations where planes can't move to their next station because it's occupied. 
 
 
  <img src="https://github.com/Lena-Kalmikov/Airport-Simulation/blob/main/schema.PNG" width="400" height="280"/>
