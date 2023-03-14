@@ -6,6 +6,7 @@ The goal of this project was to create an App that manages plane traffic in an a
 * Front-end: ReactJS
 
 Application:
+
 You can see three lists in the App:
 * Incoming Flights: includes all flights that are waiting to land or are in the process of landing in the airport. 
 * Outgoing Flights: includes all flights that are waiting to take off or are in the process of taking off in the airport.
