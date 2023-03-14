@@ -20,8 +20,6 @@ Routes can be seen in the image below:
 
  <img src="https://github.com/Lena-Kalmikov/Airport-Simulation/blob/main/schema.PNG" width="400" height="280"/>
 
-Airport:
-
  <img src="https://github.com/Lena-Kalmikov/Airport-Simulation/blob/main/airport_activity.gif" width="700" height="580"/>
 
 Departing plane:
