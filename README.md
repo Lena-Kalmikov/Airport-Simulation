@@ -30,15 +30,3 @@ Arriving plane:
 
  <img src="https://github.com/Lena-Kalmikov/Airport-Simulation/blob/main/landing1.gif" width="700" height="580"/>
  
-If you decide to download and run the project locally, do the following:
-*	Open two terminals in vs code.
-*	In one terminal do the following:
-    * Change directory to the 'server' folder
-    * Run 'npm i' to install all necessary modules
-    * Run 'node index.js' to start node
-*	In the other do the following:
-    * Change directory to the 'client' folder
-    * Run 'npm i' to install all necessary modules
-    * Run 'npm start' to start the react app
-*	Refresh the website and you're ready to go.
-
