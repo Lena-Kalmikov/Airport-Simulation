@@ -20,8 +20,8 @@ Application:
 
 You can follow one plane taking off here:
 
- <img src="https://github.com/Lena-Kalmikov/Airport-Simulation/blob/main/takeoff1.gif" width="450" height="330"/>
+ <img src="https://github.com/Lena-Kalmikov/Airport-Simulation/blob/main/takeoff1.gif" width="550" height="420"/>
 
 Andd here you can follow after plane landing:
 
- <img src="https://github.com/Lena-Kalmikov/Airport-Simulation/blob/main/landing1.gif" width="450" height="330"/>
+ <img src="https://github.com/Lena-Kalmikov/Airport-Simulation/blob/main/landing1.gif" width="550" height="420"/>
