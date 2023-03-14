@@ -16,5 +16,5 @@ Application:
 7.	In the chat room, there can only be two people. They can chat with one another and play tic-tac-toe.
 8.	Once one of the users leaves the room, both of the users are redirected back to the user lists page. 
 
- <img src="https://github.com/Lena-Kalmikov/Airport-Simulation/blob/main/airport_activity.gif" width="900" height="600"/>
+ <img src="https://github.com/Lena-Kalmikov/Airport-Simulation/blob/main/airport_activity.gif" width="900" height="700"/>
 
