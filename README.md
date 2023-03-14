@@ -16,12 +16,12 @@ Application:
 7.	In the chat room, there can only be two people. They can chat with one another and play tic-tac-toe.
 8.	Once one of the users leaves the room, both of the users are redirected back to the user lists page. 
 
- <img src="https://github.com/Lena-Kalmikov/Airport-Simulation/blob/main/airport_activity.gif" width="750" height="620"/>
+ <img src="https://github.com/Lena-Kalmikov/Airport-Simulation/blob/main/airport_activity.gif" width="700" height="580"/>
 
 You can follow one plane taking off here:
 
- <img src="https://github.com/Lena-Kalmikov/Airport-Simulation/blob/main/takeoff1.gif" width="500" height="380"/>
+ <img src="https://github.com/Lena-Kalmikov/Airport-Simulation/blob/main/takeoff1.gif" width="600" height="480"/>
 
 Andd here you can follow after plane landing:
 
- <img src="https://github.com/Lena-Kalmikov/Airport-Simulation/blob/main/landing1.gif" width="500" height="380"/>
+ <img src="https://github.com/Lena-Kalmikov/Airport-Simulation/blob/main/landing1.gif" width="600" height="480"/>
