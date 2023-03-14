@@ -17,15 +17,19 @@ There were a few constraints for this project:
 * Outgoing flights have to take the following routes only: station 6 or station 7 (if 6 is occupied) > station 8 > station 4 > station 9
 
 Routes can be seen in the image below:
+
  <img src="https://github.com/Lena-Kalmikov/Airport-Simulation/blob/main/schema.PNG" width="400" height="280"/>
 
 Airport:
+
  <img src="https://github.com/Lena-Kalmikov/Airport-Simulation/blob/main/airport_activity.gif" width="700" height="580"/>
 
 Departing plane:
+
  <img src="https://github.com/Lena-Kalmikov/Airport-Simulation/blob/main/takeoff1.gif" width="700" height="580"/>
 
 Arriving plane:
+
  <img src="https://github.com/Lena-Kalmikov/Airport-Simulation/blob/main/landing1.gif" width="700" height="580"/>
  
 If you decide to download and run the project locally, do the following:
