@@ -3,7 +3,7 @@
 The goal of this project was to create an App that manages plane traffic in an airport, routing arriving and departing planes to different stations, managing variable loads and preventing deadlocks. 
 
 * Back-end: NodeJS, using Express and Socket.IO.
-* Front-end: ReactJS
+* Front-end: ReactJS.
 
 You can see three lists in the App:
 * Incoming Flights: includes all flights that are waiting to land or are in the process of landing in the airport. 
